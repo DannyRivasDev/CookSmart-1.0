@@ -6,7 +6,7 @@ const { verifyUser } = require('./middleware/auth.js');
 const { OK } = require('./constants.js');
 
 const app = express();
-const port = process.env.SERVER_PORT;
+const port = 8080;//process.env.SERVER_PORT;
 
 app.use(express.json()); //Middleware to parse body for requests and responses
 app.use(cookieParser()); //Middleware to allow access to cookies
