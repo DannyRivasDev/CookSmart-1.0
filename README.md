@@ -1,6 +1,6 @@
 # CookSmart
 
-Grocery Management tool with built-in Recipe integration and macro counter. 
+Grocery Management tool with built-in recipe integration and macro counter. 
 
 ![DSD-community](https://www.meetup.com/dallas-software-developers-meetup/)
 
